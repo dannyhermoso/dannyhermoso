@@ -11,7 +11,7 @@
 
 I am Danny Hermoso, a junior full stack developer who enjoys developing MERN stack apps in his free time and get entertained learning in the process. I used to study Syste Engineer after finishing High school. However, during the Pandemic, for different reasos i paused the university and started to study only programming. Nowadays I study Full Stack Web development in "Soy Henry Coding bootcamp". In addition, I speak Spanish as my native language, and English as a B1.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krqui&label=Profile%20views&color=0e75b6&style=flat" alt="krqui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannyhermoso&label=Profile%20views&color=0e75b6&style=flat" alt="dannyhermoso" /> </p>
 
 
 
@@ -45,12 +45,12 @@ I am Danny Hermoso, a junior full stack developer who enjoys developing MERN sta
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krqui&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="krqui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyhermoso&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="dannyhermoso" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krqui&theme=midnight-purple&show_icons=true&locale=en" alt="krqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyhermoso&theme=midnight-purple&show_icons=true&locale=en" alt="danny" /></p>
     
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">My Repos</h2>
 
-<a href = "https://github.com/krqui/PI-FT-26aDEMO"><img align="center"  src="https://res.cloudinary.com/dby5zzxin/image/upload/v1660673716/xrtmxxfydwg8dwaptpya.png" height="120"/></a>
+<a href = "https://github.com/dannyhermoso/PI-FT-26aDEMO"><img align="center"  src="https://res.cloudinary.com/dby5zzxin/image/upload/v1660673716/xrtmxxfydwg8dwaptpya.png" height="120"/></a>
 <a href = "https://github.com/LEOBC04/ECOMMERCE"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=leobc04&repo=ecommerce&theme=midnight-purple" /></a>
