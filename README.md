@@ -54,3 +54,5 @@ I am Danny Hermoso, a junior full stack developer who enjoys developing MERN sta
 
 <a href = "https://github.com/dannyhermoso/PI-FT-26aDEMO"><img align="center"  src="https://res.cloudinary.com/dby5zzxin/image/upload/v1660673716/xrtmxxfydwg8dwaptpya.png" height="120"/></a>
 <a href = "https://github.com/LEOBC04/ECOMMERCE"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=leobc04&repo=ecommerce&theme=midnight-purple" /></a>
+    <a href = "https://github.com/dannyhermoso/Proyecto-final"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=dannyhermoso&repo=royecto-final
+&theme=midnight-purple" /></a>
